@@ -1,0 +1,31 @@
+#btn{
+    -fx-background-color: #a69a90;
+    -fx-border-color: transparent;
+    -fx-border-radius: 7 7 7 7;
+    -fx-background-radius: 10 10 10 10;
+    -fx-pref-Width: 100px;
+}
+
+#btn:hover{
+    -fx-background-color: #fff1c1;
+}
+
+.scroll-pane > .viewport{
+    -fx-background-color: #4a403d;
+}
+
+#btn2{
+    -fx-background-color: #ea804c;
+    -fx-border-color: transparent;
+    -fx-border-radius: 7 7 7 7;
+    -fx-background-radius: 10 10 10 10;
+    -fx-pref-width: 100px;
+}
+
+#btn2:hover{
+    -fx-background-color: #facf7d;
+}
+
+#label{
+    -fx-text-fill: white;
+}
